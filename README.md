@@ -1,6 +1,7 @@
 # CRAWL DATA
 
 This repository is about using tools such as Selenium and Puppeteer to crawl data from websites.
+
 In the `Puppeteer` directory there are 3 files as follow:
 
 - `get_links.js` : get all the links to different categories on Amazon.
